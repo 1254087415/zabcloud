@@ -1,0 +1,14 @@
+### IDEA ###
+.idea/*
+*.iml
+*/target/*
+*/*.iml
+/.gradle/
+*/rebel.xml
+/dataStructure/.idea
+/road-wechat/.idea/.gitignore
+/road-wechat/.idea/codeStyles/codeStyleConfig.xml
+/road-wechat/.idea/inspectionProfiles/Project_Default.xml
+/road-wechat/.idea/modules.xml
+/road-wechat/.idea/vcs.xml
+/road-wechat/project.private.config.json
